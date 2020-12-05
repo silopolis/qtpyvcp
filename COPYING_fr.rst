@@ -1,31 +1,31 @@
-Terms and Conditions
+Termes et Conditions
 ========================================================================
 
-The QtPyVCP project contains code with separate copyright notices
-and license terms.  As a whole QtPyVCP may be redistributed and/or
-modified in accordance with the GNU General Public License as published
-by the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.  Individual files may be licensed
-under less strict terms and conditions and can be distributed subject
-to the terms and conditions set forth in the file header.
+Le projet QtPyVCP contient du code avec des avis de copyright séparés
+et les conditions de licence.  Tout un QtPyVCP peut être redistribué et/ou
+modifié conformément à la Licence Publique Générale GNU telle que publiée
+par la Free Software Foundation ; soit la version 2 de la Licence, soit
+(à votre choix) toute version ultérieure.  Les fichiers individuels peuvent être sous licence
+sous des termes et conditions moins stricts et peuvent être distribués sous réserve
+aux termes et conditions énoncés dans l'en-tête du fichier.
 
-All files distributed as part of QtPyVCP are assumed to be covered by
-the GPLv2 License unless stated otherwise in the file header.
+Tous les fichiers distribués dans le cadre de QtPyVCP sont supposés être couverts par
+la licence GPLv2 sauf mention contraire dans l'en-tête du fichier.
 
-Each license is included in its entirety in the LICENCES directory.
+Chaque licence est incluse dans son intégralité dans le répertoire LICENCES.
 
 ------------------------------------------------------------------------
-Components provided under additional licenses
+Composants fournis sous licences supplémentaires
 ------------------------------------------------------------------------
 
-Some self-contained python modules are covered by the MIT License (to
-make reuse in other non GPL projects easier).
+Certains modules python indépendants sont couverts par la licence MIT (vers
+rendre plus facile la réutilisation dans d'autres projets non GPL).
 
-Code adapted from PyDM is covered by the BSD 3-Clause License.
+Le code adapté de PyDM est couvert par la licence BSD 3-Clause License.
 
-Images and icons are covered by the CC Attribution-ShareAlike License.
+Les images et les icônes sont couvertes par la licence CC Attribution-Partage à l'identique de la licence.
 
 
-Links
+Liens
 -----
 PyDM (https://github.com/slaclab/pydm)
