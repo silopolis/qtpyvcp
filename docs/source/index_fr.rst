@@ -1,68 +1,68 @@
-QtPyVCP - QtPy Virtual Control Panel
+QtPyVCP - Panneau de Contrôle Virtuel QtPy
 ====================================
 
-QtPyVCP is a Qt and Python based framework for building virtual control panels
-for the LinuxCNC machine control.
+QtPyVCP est un cadre de développement basé sur Qt et Python pour la construction de panneaux de contrôle virtuels
+pour le contrôleur de machine LinuxCNC.
 
-The goal is to provide a no-code, drag-and-drop system for making simple VCPs,
-as well as a straightforward, flexible and extensible framework to aid in
-building complex VCPs.
+L'objectif est de fournir un système sans codage, par glisser-déposer pour la création de VCPs simples,
+ainsi qu'un cadre simple, souple et extensible pour aider à
+la construction de VCP complexe.
 
 
 .. toctree::
    :maxdepth: 1
-   :caption: Getting Started
+   :caption: Mise en route
    :titlesonly:
 
-   install/index
-   install/basic_usage
-   configuration/index
+   install/index_fr
+   install/basic_usage_fr
+   configuration/index_fr
 
 .. toctree::
    :maxdepth: 1
-   :caption: Tutorials
+   :caption: Tutoriels
    :titlesonly:
 
-   tutorials/index
-   components/index
-   showcase/index
+   tutorials/index_fr
+   components/index_fr
+   showcase/index_fr
 
 .. toctree::
    :maxdepth: 1
-   :caption: Module & API Documentation
+   :caption: Documentation des modules et de l'API
    :titlesonly:
 
-   plugins/index.rst
-   actions/index.rst
-   widgets/index.rst
-   application
-   hal
+   plugins/index_fr
+   actions/index_fr
+   widgets/index_fr
+   application_fr
+   hal_fr
 
 .. toctree::
    :maxdepth: 1
-   :caption: Developers Corner
+   :caption: Le coin des développeurs
 
-   development/contribution_guide
-   development/dev_environment
-   tools/index
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Acknowledgements
-
-   acknowledgements
+   development/contribution_guide_fr
+   development/dev_environment_fr
+   tools/index_fr
 
 .. toctree::
    :maxdepth: 1
-   :caption: Links
+   :caption: Remerciements
+
+   acknowledgements_fr
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Liens
    :hidden:
 
-   QtPyVCP GitHub <https://github.com/kcjengr/qtpyvcp>
-   LinuxCNC Github <https://github.com/linuxcnc/linuxcnc>
-   LinuxCNC Forum <https://forum.linuxcnc.org/qtpyvcp>
+   QtPyVCP <https://github.com/kcjengr/qtpyvcp>
+   Github LinuxCNC <https://github.com/linuxcnc/linuxcnc>
+   Forum LinuxCNC <https://forum.linuxcnc.org/qtpyvcp>
 
 
-Indices and tables
+Indexes et tables
 ==================
 
 * :ref:`genindex`
@@ -70,16 +70,16 @@ Indices and tables
 * :ref:`search`
 
 
-.. DISCLAIMER
+.. CLAUSE DE NON-RESPONSABILITÉ
 .. ^^^^^^^^^^
 ..
-.. *THE AUTHORS OF THIS SOFTWARE ACCEPT ABSOLUTELY NO LIABILITY FOR
-.. ANY HARM OR LOSS RESULTING FROM ITS USE.  IT IS EXTREMELY UNWISE
-.. TO RELY ON SOFTWARE ALONE FOR SAFETY.*  Any machinery capable of
-.. harming persons must have provisions for completely removing power
-.. from all motors, etc, before persons enter any danger area.  All
-.. machinery must be designed to comply with local and national safety
-.. codes, and the authors of this software can not, and do not, take
-.. any responsibility for such compliance.
+.. *LES AUTEURS DE CE LOGICIEL ACCEPTENT ABSOLUMENT AUCUNE RESPONSABILITÉ POUR
+.. TOUT DOMMAGE OU TOUTE PERTE RÉSULTANT DE SON UTILISATION.  IL EST EXTRÊMEMENT IMPRUDENT
+.. DE SE REPOSER UNIQUEMENT SUR LE LOGICIEL POUR LA SÉCURITÉ.* Toute machine capable de
+.. de blesser les personnes doit présenter des dispositifs permettant de couper totalement l'alimentation
+.. de tous les moteurs, etc, avant que les personnes ne puissent entrer dans toutes zone de danger.  Toute
+.. machine doit être conçue pour être conformes aux lois et règlements relatifs à la sécurité en vigueur localement et nationalement,
+.. et les auteurs du logiciel ne s'engagent, ni ne saurait être tenus responsables
+.. quant à cette conformité.
 ..
-.. This software is released under the GPLv2.
+.. Ce logiciel est distribué sous la licence GPLv2.
