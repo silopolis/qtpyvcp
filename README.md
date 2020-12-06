@@ -8,6 +8,7 @@
 [![Chat on Matrix ][matrix-badge]](https://riot.im/app/#/room/#qtpyvcp:matrix.org)
 [![Chat on Gitter ][gitter-badge]](https://gitter.im/kcjengr/qtpyvcp)
 [![Chat on Discord ][discord-badge]](https://discord.gg/463hMhd)
+[![Crowdin](https://badges.crowdin.net/qtpyvcp/localized.svg)](https://crowdin.com/project/qtpyvcp)
 
 QtPyVCP is a Qt and Python based framework for building virtual control panels
 for the LinuxCNC machine control.
