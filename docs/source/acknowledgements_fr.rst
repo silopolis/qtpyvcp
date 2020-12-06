@@ -1,18 +1,18 @@
-Acknowledgements
+Remerciements
 ================
 
-The QtPyVCP team would like to acknowledge the following projects
-which have been particularly valuable as sources of inspiration and
-code snippets.
+L'équipe QtPyVCP aimerait remercier les projets suivants
+qui ont été particulièrement précieux en tant que sources d'inspiration et
+comme sources d'extraits de code.
 
 PyDM
 ----
 
-| **Project URL:**  https://github.com/slaclab/pydm
+| **URL du projet:**  https://github.com/slaclab/pydm
 
 
 QtVCP
 -----
 
-| **Project URL:**  Included with LinuxCNC.
+| **URL du projet:** Inclus avec LinuxCNC.
 
