@@ -15,10 +15,10 @@ la licence GPLv2 sauf mention contraire dans l'en-tête du fichier.
 Chaque licence est incluse dans son intégralité dans le répertoire LICENCES.
 
 ------------------------------------------------------------------------
-Composants fournis sous licences supplémentaires
+Composants fournis sous licences additionnelles
 ------------------------------------------------------------------------
 
-Certains modules python indépendants sont couverts par la licence MIT (vers
+Certains modules python indépendants sont couverts par la licence MIT (pour
 rendre plus facile la réutilisation dans d'autres projets non GPL).
 
 Le code adapté de PyDM est couvert par la licence BSD 3-Clause License.
