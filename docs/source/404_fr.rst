@@ -1,0 +1,10 @@
+:orphan:
+
+===========================
+ Erreur 404 - Page introuvable
+===========================
+
+La page demandée a été déplacée, ou n'existe pas.
+Essayez d'utiliser les liens de la barre latérale pour trouver ce que vous cherchez.
+
+Si vous pensez que cette page *devrait* exister, veuillez contacter l'un des administrateurs du site ou créer un incident sur GitHub.
