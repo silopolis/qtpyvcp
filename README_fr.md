@@ -1,47 +1,47 @@
-![](https://www.qtpyvcp.com/_static/qtpyvcp_logo_small.png)
+![](Logo QtPyVCP)
 
-# QtPyVCP - QtPy Virtual Control Panel
-[![Travis CI][1]](https://travis-ci.org/kcjengr/qtpyvcp) [![pypi version][2]](https://pypi.org/project/QtPyVCP/) [![LinuxCNC 2.8][3]](https://github.com/LinuxCNC/linuxcnc) [![Chat on IRC ][4]](https://kiwiirc.com/client/irc.kiwiirc.com/hazzy) [![Chat on Matrix ][5]](https://riot.im/app/#/room/#qtpyvcp:matrix.org) [![Chat on Gitter ][6]](https://gitter.im/kcjengr/qtpyvcp) [![Chat on Discord ][7]](https://discord.gg/463hMhd)
+# QtPyVCP - Panneau de Contrôle Virtuel QtPy
+[![Travis CI][1]](https://travis-ci.org/kcjengr/qtpyvcp) [![version pypi][2]](https://pypi.org/project/QtPyVCP/) [![LinuxCNC 2.8][3]](https://github.com/LinuxCNC/linuxcnc) [![Discuter sur IRC ][4]](https://kiwiirc.com/client/irc.kiwiirc.com/hazzy) [![Discuter sur Matrix ][5]](https://riot.im/app/#/room/#qtpyvcp:matrix.org) [![Discuter sur Gitter ][6]](https://gitter.im/kcjengr/qtpyvcp) [![Discuter sur Discord ][7]](https://discord.gg/463hMhd)
 
-QtPyVCP is a Qt and Python based framework for building virtual control panels for the LinuxCNC machine control.
+QtPyVCP est un framework basé sur Qt et Python pour la construction de panneaux de contrôle virtuels pour le commande numérique de machines LinuxCNC.
 
-The goal is to provide a no-code, drag-and-drop system for making simple VCPs, as well as a straightforward, flexible and extensible framework to aid in building complex VCPs.
-
-
-## Installation and Usage
-
-See the [documentation](https://kcjengr.github.io/qtpyvcp/).
+L'objectif est de fournir un système sans code, par glisser-déposer pour créer des VCP simples, ainsi qu'un cadre accessible, flexible et extensible pour aider à construire des VCP complexes.
 
 
-## Development
+## Installation et utilisation
 
-* [GitHub Repo](https://github.com/kcjengr/qtpyvcp/)
-* [Issue Tracker](https://github.com/kcjengr/qtpyvcp/issues)
+Voir la [documentation](https://kcjengr.github.io/qtpyvcp/).
 
-## Documentation and Help
+
+## Développement
+
+* [Dépôt GitHub](https://github.com/kcjengr/qtpyvcp/)
+* [Gestionnaire de suivi des incidents](https://github.com/kcjengr/qtpyvcp/issues)
+
+## Documentation et aide
 
 * [Documentation](https://www.qtpyvcp.com)
-* [LinuxCNC Forum](https://forum.linuxcnc.org/qtpyvcp)
+* [Forum LinuxCNC](https://forum.linuxcnc.org/qtpyvcp)
 * [Freenode IRC](http://webchat.freenode.net/?channels=%23hazzy) (#hazzy)
 * [The Matrix](https://riot.im/app/#/room/#qtpyvcp:matrix.org) (#qtpyvcp:matrix.org)
 * [Gitter](https://gitter.im/kcjengr/qtpyvcp)
-* [Discord](https://discord.gg/463hMhd) (Issues joining? please try other network)
+* [Discord](https://discord.gg/463hMhd) (Problèmes de connexion ? Essayez un autre réseau s'il vous plait)
 
 
-## Dependancies
+## Dépendances
 
 * LinuxCNC master (2.8~pre)
 * Python 2.7
-* PyQt5 or PySide2
+* PyQt5 ou PySide2
 
-QtPyVCP is developed and tested using the LinuxCNC Debian 9 x64 (stretch) [Live ISO](http://www.linuxcnc.org/testing-stretch-rtpreempt/). It should run on any system that can have PyQt5 installed, but Debian 9 x64 is the only OS that is officially supported.
+QtPyVCP est développé et testé sur la base de la distribution LinuxCNC 2.8 [Live ISO](http://www.linuxcnc.org/testing-stretch-rtpreempt/), elle même basée sur Debian 9 x64 (stretch). QtPyVCP devrait fonctionner sur n'importe quel système qui pouvant exécuter PyQt5, mais Debian 9 x64 est le seul système d'exploitation officiellement pris en charge.
 
 
-## DISCLAIMER
+## CLAUSE DE NON-RESPONSABILITÉ
 
-THE AUTHORS OF THIS SOFTWARE ACCEPT ABSOLUTELY NO LIABILITY FOR ANY HARM OR LOSS RESULTING FROM ITS USE.  IT IS _EXTREMELY_ UNWISE TO RELY ON SOFTWARE ALONE FOR SAFETY.  Any machinery capable of harming persons must have provisions for completely removing power from all motors, etc, before persons enter any danger area.  All machinery must be designed to comply with local and national safety codes, and the authors of this software can not, and do not, take any responsibility for such compliance.
+LES AUTEURS DE CE LOGICIEL ACCEPTENT ABSOLUMENT AUCUNE RESPONSABILITÉ POUR TOUS DOMMAGES OU PERTES RESULTANT DE SON UTILISATION.  IL EST _EXTRÊMEMENT_ IMPRUDENT DE NE REPOSER QUE SUR LE LOGICIEL POUR LA SÉCURITÉ.  Toute machine capable de blesser des personnes doit avoir des dispositifs pour couper complètement la puissance de tous les moteurs, etc, avant que les personnes ne puissent entrer dans une zone de danger.  Toute machine doit être conçue pour être conforme aux codes de sécurité locaux et nationaux, et les auteurs de ce logiciel n'assument aucune responsabilité concernant cette conformité.
 
-This software is released under the GPLv2.
+Ce logiciel est distribué sous la licence GPLv2.
 
 [1]: https://img.shields.io/travis/kcjengr/qtpyvcp/master.svg?label=build
 [2]: https://img.shields.io/pypi/v/qtpyvcp.svg
