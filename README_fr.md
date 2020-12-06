@@ -1,7 +1,7 @@
 ![](https://www.qtpyvcp.com/_static/qtpyvcp_logo_small.png)
 
 # QtPyVCP - Panneau de Contrôle Virtuel QtPy
-[![Travis CI][1]](https://travis-ci.org/kcjengr/qtpyvcp) [![version pypi][2]](https://pypi.org/project/QtPyVCP/) [![LinuxCNC 2.8][3]](https://github.com/LinuxCNC/linuxcnc) [![Discuter sur IRC ][4]](https://kiwiirc.com/client/irc.kiwiirc.com/hazzy) [![Discuter sur Matrix ][5]](https://riot.im/app/#/room/#qtpyvcp:matrix.org) [![Discuter sur Gitter ][6]](https://gitter.im/kcjengr/qtpyvcp) [![Discuter sur Discord ][7]](https://discord.gg/463hMhd)
+[![Travis CI][1]](https://travis-ci.org/kcjengr/qtpyvcp) [![version pypi][2]](https://pypi.org/project/QtPyVCP/) [![LinuxCNC 2.8][3]](https://github.com/LinuxCNC/linuxcnc) [![Discuter sur IRC ][4]](https://kiwiirc.com/client/irc.kiwiirc.com/hazzy) [![Discuter sur Matrix ][5]](https://riot.im/app/#/room/#qtpyvcp:matrix.org) [![Discuter sur Gitter ][6]](https://gitter.im/kcjengr/qtpyvcp) [![Discuter sur Discord ][7]](https://discord.gg/463hMhd) [![Crowdin](https://badges.crowdin.net/qtpyvcp/localized.svg)](https://crowdin.com/project/qtpyvcp)
 
 QtPyVCP est un framework basé sur Qt et Python pour la construction de panneaux de contrôle virtuels pour la commande numérique de machines LinuxCNC.
 
@@ -25,7 +25,7 @@ Voir la [documentation](https://kcjengr.github.io/qtpyvcp/).
 * [Freenode IRC](http://webchat.freenode.net/?channels=%23hazzy) (#hazzy)
 * [The Matrix](https://riot.im/app/#/room/#qtpyvcp:matrix.org) (#qtpyvcp:matrix.org)
 * [Gitter](https://gitter.im/kcjengr/qtpyvcp)
-* [Discord](https://discord.gg/463hMhd) (Problèmes de connexion ? Essayez un autre réseau s'il vous plait)
+* [Discord](https://discord.gg/463hMhd) (Problèmes de connexion ? Essayez un autre réseau)
 
 
 ## Dépendances
