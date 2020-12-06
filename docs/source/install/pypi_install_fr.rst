@@ -36,7 +36,7 @@ les configurations sim spécifiques à QtPyVCP dans ``~/linuxcnc/configs/sim.qtp
 Mettre à jour QtPyVCP
 +++++++++++++++
 
-A mesure des améliorations apportées à QtPyVCP, vous pouvez mettre à jour l'installation avec `pip` avec:
+A mesure des améliorations apportées à QtPyVCP, vous pouvez mettre à jour une installation `pip` avec:
 ::
 
   pip install --upgrade qtpyvcp
