@@ -1,12 +1,12 @@
 Termes et Conditions
 ========================================================================
 
-Le projet QtPyVCP contient du code avec des avis de copyright séparés
-et les conditions de licence.  Tout un QtPyVCP peut être redistribué et/ou
+Le projet QtPyVCP contient du code soumis à des droits d'auteur
+et des licences différents.  Dans son ensemble QtPyVCP peut être redistribué et/ou
 modifié conformément à la Licence Publique Générale GNU telle que publiée
-par la Free Software Foundation ; soit la version 2 de la Licence, soit
-(à votre choix) toute version ultérieure.  Les fichiers individuels peuvent être sous licence
-sous des termes et conditions moins stricts et peuvent être distribués sous réserve
+par la Free Software Foundation; soit la version 2 de la Licence, soit
+(à votre choix) toute version ultérieure.  Des fichiers peuvent individuellement être soumis à des termes
+et conditions de licence moins stricts et peuvent être distribués sous réserve
 aux termes et conditions énoncés dans l'en-tête du fichier.
 
 Tous les fichiers distribués dans le cadre de QtPyVCP sont supposés être couverts par
