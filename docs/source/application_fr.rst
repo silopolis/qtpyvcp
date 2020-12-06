@@ -1,5 +1,5 @@
 ===========
-Application_fr
+Application
 ===========
 
 .. automodule:: qtpyvcp.app.application
