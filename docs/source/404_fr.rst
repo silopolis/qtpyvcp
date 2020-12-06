@@ -1,10 +1,10 @@
 :orphan:
 
 ===========================
- 404 Error - Page Not Found
+ Erreur 404 - Page introuvable
 ===========================
 
-The requested page has either moved, or does not exist.
-Please try using the links from the sidebar to find what you are looking for.
+La page demandée a été déplacée, ou n'existe pas.
+Essayez d'utiliser les liens de la barre latérale pour trouver ce que vous cherchez.
 
-If you think this page *should* exit, please contact one of the site administrators or open an issue on GitHub.
+Si vous pensez que cette page *devrait* exister, veuillez contacter l'un des administrateurs du site ou créer un incident sur GitHub.
