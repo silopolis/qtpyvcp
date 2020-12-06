@@ -2,7 +2,7 @@ QtPyVCP - Panneau de Contrôle Virtuel QtPy
 ====================================
 
 QtPyVCP est un cadre de développement basé sur Qt et Python pour la construction de panneaux de contrôle virtuels
-pour le contrôleur de machine LinuxCNC.
+pour la commande numérique de machine LinuxCNC.
 
 L'objectif est de fournir un système sans codage, par glisser-déposer pour la création de VCPs simples,
 ainsi qu'un cadre simple, souple et extensible pour aider à
